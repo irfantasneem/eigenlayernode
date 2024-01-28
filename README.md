@@ -2,7 +2,7 @@
 "name":"sentry",
 "website":"under_construction",
 "description":"testing out functionality",
-"logo":"none",
-"twiter":"absde"
+"logo":"https://logodix.com/logo/1931272.png)https://logodix.com/logo/1931272.png",
+"twiter":"https://twitter.com/Irfan01481740)https://twitter.com/Irfan01481740"
 
 }
